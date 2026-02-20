@@ -26,3 +26,20 @@ It allows users to input a desired sequence length and then:
 ## Requirements
 - Python 3.x
 - Standard library only (`random` module)
+
+## Example Output
+
+Input:
+
+Enter gene sequence length: 12
+
+
+Output:
+
+Generated Gene Sequence:
+ATGCGTACGTAA
+Sequence Length: 12
+Nucleotide Count: {'A': 4, 'T': 3, 'C': 2, 'G': 3}
+GC Content: 41.67%
+Complement: TACGCATGCATT
+Reverse Complement: TTACGTACGCAT
