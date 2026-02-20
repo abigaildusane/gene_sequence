@@ -31,7 +31,7 @@ It allows users to input a desired sequence length and then:
 
 Input:
 
-Enter gene sequence length: 12
+- Enter gene sequence length: 12
 
 
 Output:
